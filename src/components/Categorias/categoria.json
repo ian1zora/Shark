@@ -1,0 +1,14 @@
+[
+  { "nombre": "Entradas", "icono": "fa-utensils" },
+  { "nombre": "Platos Principales", "icono": "fa-drumstick-bite" },
+  { "nombre": "Pastas", "icono": "fa-bowl-food" },
+  { "nombre": "Pizzas", "icono": "fa-pizza-slice" },
+  { "nombre": "Hamburguesas", "icono": "fa-hamburger" },
+  { "nombre": "Ensaladas", "icono": "fa-leaf" },
+  { "nombre": "Postres", "icono": "fa-ice-cream" },
+  { "nombre": "Bebidas", "icono": "fa-glass-martini-alt" },
+  { "nombre": "Vinos", "icono": "fa-wine-bottle" },
+  { "nombre": "Cervezas", "icono": "fa-beer" },
+  { "nombre": "Menú Infantil", "icono": "fa-child" },
+  { "nombre": "Especialidades", "icono": "fa-star" }
+]
