@@ -1,0 +1,12 @@
+.contenedorCategorias {
+  display: flex;
+  overflow-x: auto;
+  white-space: nowrap;
+}
+.itemCategorias{
+ display:flex;
+ flex-direction: column;
+ aling-items: center;
+ justify-contnet: center;
+
+}
